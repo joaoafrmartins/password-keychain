@@ -1,0 +1,16 @@
+{
+  "name": "password-keychain",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "password-keychain": "./bin/password-keychain"
+  },
+  "dependencies": {
+    "shelljs": "",
+    "minimist": "",
+    "password-generator": "",
+    "confirm": ""
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
+}
